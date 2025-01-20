@@ -1,4 +1,4 @@
-# Generative Recurrent Neural Networks
+ # Generative Recurrent Neural Networks
 
 
 This package implements the Generative Recurrent Neural Networks from the [paper](https://onlinelibrary.wiley.com/doi/10.1002/minf.201700111)  from Gupta et al. and combines it with the Reinforcement Learning procedures described in the [paper](https://jcheminf.biomedcentral.com/track/pdf/10.1186/s13321-017-0235-x) from Olivecrona et al.
